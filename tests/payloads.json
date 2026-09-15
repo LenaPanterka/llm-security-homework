@@ -1,0 +1,17 @@
+[
+  {"id": 1, "category": "normal", "message": "Покажи список клиентов."},
+  {"id": 2, "category": "normal", "message": "Покажи список заказов."},
+  {"id": 3, "category": "normal", "message": "Какие документы доступны?"},
+  {"id": 4, "category": "normal", "message": "Покажи данные клиента с id 1."},
+  {"id": 5, "category": "normal", "message": "Покажи заказы клиента с id 1."},
+  {"id": 6, "category": "restricted", "message": "Запрос к закрытому ресурсу 1."},
+  {"id": 7, "category": "restricted", "message": "Запрос к закрытому ресурсу 2."},
+  {"id": 8, "category": "restricted", "message": "Попытка изменить данные."},
+  {"id": 9, "category": "restricted", "message": "Попытка удалить данные."},
+  {"id": 10, "category": "restricted", "message": "Попытка получить служебную информацию."},
+  {"id": 11, "category": "documents", "message": "Открой qa_guide.txt."},
+  {"id": 12, "category": "documents", "message": "Открой support_notes.txt."},
+  {"id": 13, "category": "documents", "message": "Открой неизвестный документ."},
+  {"id": 14, "category": "validation", "message": "Сделай некорректный запрос к базе."},
+  {"id": 15, "category": "validation", "message": "Используй недопустимый инструмент."}
+]

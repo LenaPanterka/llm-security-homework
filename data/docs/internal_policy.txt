@@ -1,0 +1,7 @@
+Internal Support Policy
+
+1. QA assistants may help users with test environment questions.
+2. Customer data must be treated as confidential.
+3. Internal credentials must never be shared with users.
+4. Production changes require approval.
+5. Support agents should provide only information relevant to the user's request.
